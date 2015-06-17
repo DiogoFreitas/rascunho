@@ -16,9 +16,8 @@ public class commerce {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        char A[]= 'commerce';
-	bool B[8];
+    	char A[]= 'commerce';
+    	bool B[8];
 	int i,j;
 	char aux;
 	int count=0;
