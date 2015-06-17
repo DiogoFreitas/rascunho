@@ -47,3 +47,4 @@ Mas a lista encadeada também seria divertido. Novo elo a cada true da comparaç
 
 variável;
 */	
+/* - Véi faz uma struct { int quant; char letra;}, :-P
